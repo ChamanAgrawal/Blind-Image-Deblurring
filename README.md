@@ -13,6 +13,9 @@ under various settings. Two of the algorithms are studied over
 general signal vectors while the other two are specifically studied for the
 Image Deblurring problem (non-negative signals).
 
+This project was done as part of the course EE609: Convex Optimization, under the 
+guidance of [Prof. Ketan Rajawat](https://home.iitk.ac.in/~ketan/).
+
 # Software Requirements
 - MATLAB >= 2019a
 - CVX Package
